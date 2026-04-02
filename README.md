@@ -1,7 +1,3 @@
-Here’s a **professional GitHub README** for your **Car Evaluation Prediction (Machine Learning Project)** — clean, attractive, and recruiter-friendly 👇
-
----
-
 # 🚗 Car Evaluation Prediction using Machine Learning
 
 ## 📌 Project Overview
