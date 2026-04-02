@@ -144,20 +144,11 @@ car-evaluation-prediction/
 └── README.md
 ```
 
----
-
-## 💡 Future Improvements
-
-* Hyperparameter tuning
-* Deploy model using Flask/Streamlit
-* Add real-time prediction UI
-* Use advanced boosting algorithms (XGBoost, LightGBM)
-
----
 
 ## 👩‍💻 Author
 
 **Purva Naikwadi**
+
 Mechatronics Engineer | Data Science Enthusiast
 
 ---
@@ -165,7 +156,3 @@ Mechatronics Engineer | Data Science Enthusiast
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
----
-✅ Help you **upload this to GitHub step-by-step**
-✅ Add **100% accuracy optimized code (interview-ready)**
