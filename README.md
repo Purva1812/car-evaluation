@@ -86,8 +86,8 @@ Applied multiple ML algorithms:
 
 | Model               | Accuracy |
 | ------------------- | -------- |
-| Decision Tree       | ~96%     |
-| Random Forest       | ~95%     |
+| Decision Tree       | ~95%     |
+| Random Forest       | ~94%     |
 | SVM                 | ~94%     |
 | Logistic Regression | ~92%     |
 
@@ -97,11 +97,8 @@ Applied multiple ML algorithms:
 
 ## 📈 Sample Visualization
 
-(Add your images here)
+![Comparison](https://github.com/Purva1812/car-evaluation/blob/main/assets/Acc%20Comparison.png?raw=true)
 
-```markdown
-![EDA](images/eda.png)
-![Confusion Matrix](images/confusion_matrix.png)
 ```
 
 ---
